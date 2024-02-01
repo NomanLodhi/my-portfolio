@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.a7e31b8b.css",
+    "main.js": "/my-portfolio/static/js/main.20a9104e.js",
+    "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/Urban-fit.png": "/my-portfolio/static/media/Urban-fit.8b786e99c0057069ce80.png",
+    "static/media/Connectbok.png": "/my-portfolio/static/media/Connectbok.f397263cf9455ea85d27.png",
+    "static/media/GED-Tutors-Clone.png": "/my-portfolio/static/media/GED-Tutors-Clone.fc50cca20f1f7352b33c.png",
+    "static/media/About-pic.png": "/my-portfolio/static/media/About-pic.727b7dd6911369b4ca59.png",
+    "static/media/Nomi-Home.png": "/my-portfolio/static/media/Nomi-Home.223187556d07b4ddb396.png",
+    "static/media/Nike-Clone-Site.png": "/my-portfolio/static/media/Nike-Clone-Site.d4e314ac8149fea0d71f.png",
+    "static/media/Noman-CV.pdf": "/my-portfolio/static/media/Noman-CV.7685ddb0cfdd08e9f0bd.pdf",
+    "static/media/About-bg.jpg": "/my-portfolio/static/media/About-bg.155d97a48ad8951fbe08.jpg",
+    "static/media/web-dashboard.png": "/my-portfolio/static/media/web-dashboard.0724da956add1e0f5a16.png",
+    "static/media/Profile.jpg": "/my-portfolio/static/media/Profile.4bccd9791885d0b02ee0.jpg",
+    "static/media/Logo.png": "/my-portfolio/static/media/Logo.8309838153b16e028465.png",
+    "static/media/React-logo.png": "/my-portfolio/static/media/React-logo.09ea234359983a3c8cc1.png",
+    "static/media/html-logo.png": "/my-portfolio/static/media/html-logo.ff7c64e475530a737e08.png",
+    "static/media/java-script-logo.png": "/my-portfolio/static/media/java-script-logo.78206ba65e01c7d57080.png",
+    "static/media/css-logo.png": "/my-portfolio/static/media/css-logo.d2811e5969760ef58072.png",
+    "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.268c4375260420e8d982.png",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/Pantagon.svg": "/my-portfolio/static/media/Pantagon.97e814edb8c04744b6bec339120d9470.svg",
+    "main.a7e31b8b.css.map": "/my-portfolio/static/css/main.a7e31b8b.css.map",
+    "main.20a9104e.js.map": "/my-portfolio/static/js/main.20a9104e.js.map",
+    "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e31b8b.css",
+    "static/js/main.20a9104e.js"
+  ]
+}
