@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Agbalumo&family=Inter&family=Lato&family=Merriweather&family=Montserrat:wght@300&family=Open+Sans:wght@300&family=Wix+Madefor+Display&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities{
+  @media (min-width:1400px) {
+    .wide{
+      width: 1300px;
+      margin: auto;
+    }
+  } 
+  .my-30{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+  .h-about-sec{
+   height: 700px;
+  }
+}
+::selection{
+  background-color: #be185d;
+  color: white;
+}
+.hov:hover .ani{
+top:0%
+}
+.ani{
+  transition: 0.5s linear all;
+  top: -200px;
+}
+   
