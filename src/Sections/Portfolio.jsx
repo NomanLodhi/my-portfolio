@@ -5,7 +5,9 @@ import Urban from '../Img/Urban-fit.png'
 import Dash from '../Img/web-dashboard.png'
 import Nomi from '../Img/Nomi-Home.png'
 import GED from '../Img/GED-Tutors-Clone.png'
-
+import AsadCatalyst from '../Img/Asad Catalyst.png'
+import TheCake from '../Img/The Cake.png'
+import Fiesta from '../Img/Fiesta-Tours.png'
 export default function Portfolio() {
 
     return (
@@ -48,6 +50,26 @@ export default function Portfolio() {
     <img src={GED} alt="" className='aspect-square w-full h-full rounded-md'/>
     <div className="absolute  bg-gradient-to-t to-black/70 from-red-700/70 py-10 w-full h-full rounded-md text-white ani transition-all text-center">
         <p className="text-white text-center my-10 font-montserrat font-semibold " ><a href="https://nomanlodhi.github.io/GEDtutorclonesite/" target='_main' className=' bg-red-500 p-3 rounded-md'>Live Demo  <i class="fa-solid fa-eye px-2"></i></a></p>
+    </div>
+</div>
+</div>
+<div className="flex py-6 justify-center max-lg:flex-col mx-3 items-center flex-wrap">
+<div className=' cursor-pointer h-[200px] lg:w-[30%] mx-3 mx-3  max-lg:w-[90%] my-5 rounded-md relative overflow-hidden hov'  >
+    <img src={AsadCatalyst} alt="" className='aspect-square w-full h-full rounded-md'/>
+    <div className="absolute  bg-gradient-to-t to-black/70 from-red-700/70 py-10 w-full h-full rounded-md text-white ani transition-all text-center">
+        <p className="text-white text-center my-10 font-montserrat font-semibold " ><a href="https://www.asadcatalyst.com" target='_main' className=' bg-red-500 p-3 rounded-md'>Live Demo  <i class="fa-solid fa-eye px-2"></i></a></p>
+    </div>
+</div>
+<div className=' cursor-pointer h-[200px] lg:w-[30%] mx-3  max-lg:w-[90%]  my-5 rounded-md relative overflow-hidden hov'  >
+    <img src={TheCake} alt="" className='aspect-square w-full h-full rounded-md'/>
+    <div className="absolute  bg-gradient-to-t to-black/70 from-red-700/70 py-10 w-full h-full rounded-md text-white ani transition-all text-center">
+        <p className="text-white text-center my-10 font-montserrat font-semibold " ><a href="https://nomanlodhi.github.io/Cake-Project/" target='_main' className=' bg-red-500 p-3 rounded-md'>Live Demo <i class="fa-solid fa-eye px-2"></i></a></p>
+    </div>
+</div>
+<div className=' cursor-pointer h-[200px] lg:w-[30%] mx-3  max-lg:w-[90%] my-5 rounded-md relative overflow-hidden hov'  >
+    <img src={Fiesta} alt="" className='aspect-square w-full h-full rounded-md'/>
+    <div className="absolute  bg-gradient-to-t to-black/70 from-red-700/70 py-10 w-full h-full rounded-md text-white ani transition-all text-center">
+        <p className="text-white text-center my-10 font-montserrat font-semibold " ><a href="https://nomanlodhi.github.io/Fiesta-Tours/" target='_main' className=' bg-red-500 p-3 rounded-md'>Live Demo  <i class="fa-solid fa-eye px-2"></i></a></p>
     </div>
 </div>
 </div>
