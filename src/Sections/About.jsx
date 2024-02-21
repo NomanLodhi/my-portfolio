@@ -1,6 +1,4 @@
 import React from 'react'
-import AboutPic from '../Img/About-pic.png'
-import Pantagon from '../Img/Pantagon.svg'
 import CV from '../Img/Noman-CV.pdf'
 export default function About() {
   return (
@@ -9,10 +7,7 @@ export default function About() {
 
     
      <div className="  flex max-lg:flex-col p-10 items-center justify-center" >
-       <div className="relative my-5 mx-auto">
-        <img src={Pantagon} alt="" className='mx-5 animate-pic absolute top-20' width={450} />
-       <img src={AboutPic} alt="" className='mx-5 animate-pic ' width={400} />
-       </div>
+
        <div className='flex flex-col items-start md:w-[80%] py-5'>
         <h1 className='font-wix lg:text-7xl max-md:text-2xl lg:p-10 font-bold text-yellow-500'>About me :</h1>
         <p className='text-white font-montserrat lg:px-10 py-5 text-justify '>
