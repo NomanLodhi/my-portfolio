@@ -52,9 +52,9 @@ else{
       </ul>
       </div>
       <button className='text-white mx-5 max-lg:z-50 absolute end-0 my-3 focus-within:outline-none' onClick={toggle}>
-        <span className={`block bg-white w-[40px] rounded-full h-1 lg:hidden my-2 ${rotate1}`}></span>
+        <span className={`block bg-white w-[35px] rounded-full h-1 lg:hidden my-2 ${rotate1}`}></span>
         <span className={`block bg-white w-[40px] rounded-full h-1 lg:hidden my-2 ${rotate2}`}></span>
-        <span className={`block bg-white w-[40px] rounded-full h-1 lg:hidden my-2 ${hide}`}></span>
+        <span className={`block bg-white w-[30px] rounded-full h-1 lg:hidden my-2 ${hide}`}></span>
       </button>
     </nav>
   )
