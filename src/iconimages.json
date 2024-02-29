@@ -1,0 +1,28 @@
+[
+    
+    {
+        "iconImg":"Img/html-logo.png"
+    },
+    {
+        "iconImg":"Img/css-logo.png"
+    },
+    {
+        "iconImg":"Img/java-script-logo.png"
+    },
+    {
+        "iconImg":"Img/bootstrap-logo.png"
+    },
+    {
+        "iconImg":"Img/jQuery-logo.png"
+    },
+    {
+        "iconImg":"Img/React-logo.png"
+    },
+    {
+        "iconImg":"Img/tailwind-css-logo.png"
+    },
+    {
+        "iconImg":"Img/material-ui-logo.png"
+    }
+    
+]
