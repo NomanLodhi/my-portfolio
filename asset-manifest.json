@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.11d728ca.css",
-    "main.js": "/my-portfolio/static/js/main.fc591816.js",
+    "main.css": "/my-portfolio/static/css/main.620b4950.css",
+    "main.js": "/my-portfolio/static/js/main.8b7560b9.js",
     "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/The Cake.png": "/my-portfolio/static/media/The Cake.fc2e23329d04914866d2.png",
     "static/media/Fiesta-Tours.png": "/my-portfolio/static/media/Fiesta-Tours.4cc402b10ef0f73c330c.png",
@@ -22,12 +22,12 @@
     "static/media/css-logo.png": "/my-portfolio/static/media/css-logo.d2811e5969760ef58072.png",
     "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.268c4375260420e8d982.png",
     "index.html": "/my-portfolio/index.html",
-    "main.11d728ca.css.map": "/my-portfolio/static/css/main.11d728ca.css.map",
-    "main.fc591816.js.map": "/my-portfolio/static/js/main.fc591816.js.map",
+    "main.620b4950.css.map": "/my-portfolio/static/css/main.620b4950.css.map",
+    "main.8b7560b9.js.map": "/my-portfolio/static/js/main.8b7560b9.js.map",
     "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11d728ca.css",
-    "static/js/main.fc591816.js"
+    "static/css/main.620b4950.css",
+    "static/js/main.8b7560b9.js"
   ]
 }
