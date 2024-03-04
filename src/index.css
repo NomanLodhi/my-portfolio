@@ -18,6 +18,9 @@
    height: 700px;
   }
 }
+html{
+  @apply bg-xxl-screen bg-cover bg-no-repeat bg-fixed
+ }
 ::selection{
   background-color: #be185d;
   color: white;
