@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.620b4950.css",
-    "main.js": "/my-portfolio/static/js/main.8b7560b9.js",
+    "main.css": "/my-portfolio/static/css/main.7bdd6929.css",
+    "main.js": "/my-portfolio/static/js/main.13c9289a.js",
     "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/The Cake.png": "/my-portfolio/static/media/The Cake.fc2e23329d04914866d2.png",
     "static/media/Fiesta-Tours.png": "/my-portfolio/static/media/Fiesta-Tours.4cc402b10ef0f73c330c.png",
     "static/media/Urban-fit.png": "/my-portfolio/static/media/Urban-fit.8b786e99c0057069ce80.png",
     "static/media/Connectbok.png": "/my-portfolio/static/media/Connectbok.f397263cf9455ea85d27.png",
     "static/media/GED-Tutors-Clone.png": "/my-portfolio/static/media/GED-Tutors-Clone.fc50cca20f1f7352b33c.png",
+    "static/media/Redux-project.png": "/my-portfolio/static/media/Redux-project.a88e8be317c321466485.png",
     "static/media/Nomi-Home.png": "/my-portfolio/static/media/Nomi-Home.223187556d07b4ddb396.png",
     "static/media/Nike-Clone-Site.png": "/my-portfolio/static/media/Nike-Clone-Site.d4e314ac8149fea0d71f.png",
+    "static/media/xxl-background.jpg": "/my-portfolio/static/media/xxl-background.16619bc6640cb38f3b2e.jpg",
     "static/media/Asad Catalyst.png": "/my-portfolio/static/media/Asad Catalyst.b8d012c76e9a5bd316b1.png",
     "static/media/Noman-CV.pdf": "/my-portfolio/static/media/Noman-CV.7685ddb0cfdd08e9f0bd.pdf",
     "static/media/About-bg.jpg": "/my-portfolio/static/media/About-bg.155d97a48ad8951fbe08.jpg",
     "static/media/web-dashboard.png": "/my-portfolio/static/media/web-dashboard.0724da956add1e0f5a16.png",
     "static/media/Logo.png": "/my-portfolio/static/media/Logo.8309838153b16e028465.png",
+    "static/media/redux-logo.png": "/my-portfolio/static/media/redux-logo.b426d97de12d4dab1c06.png",
     "static/media/React-logo.png": "/my-portfolio/static/media/React-logo.09ea234359983a3c8cc1.png",
     "static/media/html-logo.png": "/my-portfolio/static/media/html-logo.ff7c64e475530a737e08.png",
     "static/media/index.cjs": "/my-portfolio/static/media/index.671993152dc0f6e0b17a.cjs",
@@ -22,12 +25,12 @@
     "static/media/css-logo.png": "/my-portfolio/static/media/css-logo.d2811e5969760ef58072.png",
     "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.268c4375260420e8d982.png",
     "index.html": "/my-portfolio/index.html",
-    "main.620b4950.css.map": "/my-portfolio/static/css/main.620b4950.css.map",
-    "main.8b7560b9.js.map": "/my-portfolio/static/js/main.8b7560b9.js.map",
+    "main.7bdd6929.css.map": "/my-portfolio/static/css/main.7bdd6929.css.map",
+    "main.13c9289a.js.map": "/my-portfolio/static/js/main.13c9289a.js.map",
     "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.620b4950.css",
-    "static/js/main.8b7560b9.js"
+    "static/css/main.7bdd6929.css",
+    "static/js/main.13c9289a.js"
   ]
 }
