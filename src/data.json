@@ -2,39 +2,53 @@
 [
     {
         "imageUrl":"Img/Asad Catalyst.png",
-        "url":"https://www.asadcatalyst.com"
+        "url":"https://www.asadcatalyst.com",
+        "githubUrl":"CLIENTS PROJECT CAN'T SHARE SOURCE CODE"
     },
     {
         "imageUrl":"Img/web-dashboard.png",
-        "url":"https://nomanlodhi.github.io/Web-Team-DashBoard/"
+        "url":"https://nomanlodhi.github.io/Web-Team-DashBoard/",
+        "githubUrl":"https://github.com/NomanLodhi/Web-Team-DashBoard.git"
     },
     {
         "imageUrl":"Img/Nomi-Home.png",
-        "url":"https://nomanlodhi.github.io/Nomi-Ecommerce-Store/"
+        "url":"https://nomanlodhi.github.io/Nomi-Ecommerce-Store/",
+        "githubUrl":"https://github.com/NomanLodhi/Nomi-Ecommerce-Store.git"
     },
     {
         "imageUrl":"Img/Nike-Clone-Site.png",
-        "url":"https://nomanlodhi.github.io/Nike-Clone/"
+        "url":"https://nomanlodhi.github.io/Nike-Clone/",
+        "githubUrl":"https://github.com/NomanLodhi/Nike-Clone.git"
     },
     {
         "imageUrl":"Img/Connectbok.png",
-        "url":"https://nomanlodhi.github.io/ConnectBok/"
+        "url":"https://nomanlodhi.github.io/ConnectBok/",
+        "githubUrl":"https://github.com/NomanLodhi/ConnectBok.git"
     },
     {
         "imageUrl":"Img/GED-Tutors-Clone.png",
-        "url":"https://nomanlodhi.github.io/GEDtutorclonesite/"
+        "url":"https://nomanlodhi.github.io/GEDtutorclonesite/",
+        "githubUrl":"https://github.com/NomanLodhi/GEDtutorclonesite.git"
     },
     {
         "imageUrl":"Img/Fiesta-Tours.png",
-        "url":"https://nomanlodhi.github.io/Fiesta-Tours/"
+        "url":"https://nomanlodhi.github.io/Fiesta-Tours/",
+        "githubUrl":"https://github.com/NomanLodhi/Fiesta-Tours.git"
     },
     {
         "imageUrl":"Img/Urban-fit.png",
-        "url":"https://nomanlodhi.github.io/Urban-fit/"
+        "url":"https://nomanlodhi.github.io/Urban-fit/",
+        "githubUrl":"https://github.com/NomanLodhi/Urban-fit.git"
     },
     {
         "imageUrl":"Img/The Cake.png",
-        "url":"https://nomanlodhi.github.io/Cake-Project/"
+        "url":"https://nomanlodhi.github.io/Cake-Project/",
+        "githubUrl":"https://github.com/NomanLodhi/Cake-Project.git"
+    },
+    {
+        "imageUrl":"Img/Redux-project.png",
+        "url":"https://nomanlodhi.github.io/Add-to-Cart/",
+        "githubUrl":"https://github.com/NomanLodhi/Add-to-Cart.git"
     }
 ]
 
