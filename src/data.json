@@ -3,7 +3,7 @@
     {
         "imageUrl":"Img/Asad Catalyst.png",
         "url":"https://www.asadcatalyst.com",
-        "githubUrl":"CLIENTS PROJECT CAN'T SHARE SOURCE CODE"
+        "githubUrl":"CLIENT'S PROJECT CAN'T SHARE SOURCE CODE"
     },
     {
         "imageUrl":"Img/web-dashboard.png",
@@ -49,6 +49,11 @@
         "imageUrl":"Img/Redux-project.png",
         "url":"https://nomanlodhi.github.io/Add-to-Cart/",
         "githubUrl":"https://github.com/NomanLodhi/Add-to-Cart.git"
+    },
+    {
+        "imageUrl":"Img/ACID-FOLIO.png",
+        "url":"https://acid-folio.vercel.app/index.html",
+        "githubUrl":"CLIENT'S PROJECT CAN'T SHARE SOURCE CODE"
     }
 ]
 

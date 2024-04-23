@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../Img/Noman-CV.pdf'
+import CV from '../Img/Noman Lodhi Resume.pdf'
 export default function About() {
   return (
     <>

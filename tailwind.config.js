@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-        'intro':"url('./Img/About-bg.jpg')"
+        'intro':"url('./Img/About-bg.jpg')",
+        'xxl-screen':"url(./Img/xxl-background.jpg)"
       },
       fontFamily:{
         'wix':"'Wix Madefor Display', 'sans-serif'",
@@ -31,14 +32,14 @@ module.exports = {
         },
         rotate1:{
           // '100%':{transform:'rotate(45deg)'},
-          '100%':{transform:'translateY(12px)rotate(45deg)'},
+          '100%':{transform:'translateY(12px)rotate(45deg)',width:'40px'},
           
         },
         rotate2:{
           '100%':{transform:'rotate(-45deg)'}
         },
         hide:{
-          '100%':{'display':'none'}
+          '100%':{'visibility':'hidden'}
         },
       },
       animation:{
