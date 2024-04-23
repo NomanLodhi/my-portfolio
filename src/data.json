@@ -51,11 +51,17 @@
         "githubUrl":"https://github.com/NomanLodhi/Add-to-Cart.git"
     },
     {
+        "imageUrl":"Img/Pacvue-clone.png",
+        "url":"https://nomanlodhi.github.io/Pacvue-Clone/",
+        "githubUrl":"https://github.com/NomanLodhi/Pacvue-Clone.git"
+    }
+,
+{
         "imageUrl":"Img/ACID-FOLIO.png",
         "url":"https://acid-folio.vercel.app/index.html",
         "githubUrl":"CLIENT'S PROJECT CAN'T SHARE SOURCE CODE"
-    }
-]
+}
+    ]
 
     
 
