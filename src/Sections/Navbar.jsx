@@ -45,10 +45,13 @@ else{
         <li className='max-lg:py-3'><a href="#Skills" className='hover:text-red-500 transition-all '>Skills</a></li>
         <li className='max-lg:py-3'><a href="#Portfolio" className='hover:text-red-500 transition-all '>Portfolio</a></li>
       </ul>
-      <ul className='flex text-white lg:w-[20%]  max-lg:mx-10 text-3xl items-center space-x-10'>
-        <li><a href="https://github.com/NomanLodhi" target='_main'><i class="fa-brands fa-square-github hover:text-red-500 transition-all"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/noman-lodhi-274313247/" target='_main'><i class="fa-brands fa-linkedin hover:text-red-500 transition-all"></i></a></li>
-        <li><a href="Mailto:nomanlodhi348@gmail.com"><i class="fa-solid fa-envelope hover:text-red-500 transition-all"></i></a></li>
+      <ul className='flex text-white lg:w-[20%]  max-lg:mx-10 text-3xl max-lg:justify-start justify-center space-x-[20px]'>
+      
+        <li><a href="https://github.com/NomanLodhi" target='_main'><i class="text-[20px] fa-brands fa-square-github hover:text-red-500 transition-all"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/noman-lodhi-274313247/" target='_main'><i class="fa-brands fa-linkedin text-[20px] hover:text-red-500 transition-all"></i></a></li>
+        <li><a href="https://www.instagram.com/nomanlodhi348/" target='_main'><i class="text-[20px] fa-brands fa-instagram hover:text-red-500 transition-all"></i></a></li>
+        <li><a href="https://x.com/nomanlodhi348" target='_main'><i class="text-[20px] fa-brands fa-x-twitter hover:text-red-500 transition-all"></i></a></li>
+        <li><a href="Mailto:nomanlodhi348@gmail.com"><i class="text-[20px] fa-solid fa-envelope hover:text-red-500 transition-all"></i></a></li>
       </ul>
       </div>
       <button className='text-white mx-5 max-lg:z-50 absolute end-0 my-3 focus-within:outline-none' onClick={toggle}>

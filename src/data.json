@@ -60,6 +60,11 @@
         "imageUrl":"Img/ACID-FOLIO.png",
         "url":"https://acid-folio.vercel.app/index.html",
         "githubUrl":"CLIENT'S PROJECT CAN'T SHARE SOURCE CODE"
+},
+{
+        "imageUrl":"Img/CSS-CARD-ANIMATOR.png",
+        "url":"https://nomanlodhi.github.io/Css-Card-Animation/",
+        "githubUrl":"https://github.com/NomanLodhi/Css-Card-Animation.git"
 }
     ]
 
