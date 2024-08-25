@@ -1,10 +1,6 @@
 
 [
-    {
-        "imageUrl":"Img/Asad Catalyst.png",
-        "url":"https://www.asadcatalyst.com",
-        "githubUrl":"CLIENT'S PROJECT CAN'T SHARE SOURCE CODE"
-    },
+   
     {
         "imageUrl":"Img/web-dashboard.png",
         "url":"https://nomanlodhi.github.io/Web-Team-DashBoard/",
@@ -70,6 +66,31 @@
         "imageUrl":"Img/Sundown.png",
         "url":"https://nomanlodhi.github.io/Sundown-clone/",
         "githubUrl":"https://github.com/NomanLodhi/Sundown-clone.git"
+},
+{
+        "imageUrl":"Img/red-apple.png",
+        "url":"https://nomanlodhi.github.io/red-apple-clone/",
+        "githubUrl":"https://github.com/NomanLodhi/red-apple-clone.git"
+},
+{
+        "imageUrl":"Img/tajweed-ul-quran.png",
+        "url":"https://tajweedulquranonlineacademy.com/",
+        "githubUrl":""
+},
+{
+        "imageUrl":"Img/tw-good.png",
+        "url":"https://two-good-clone-three.vercel.app/",
+        "githubUrl":"https://github.com/NomanLodhi/Two-good-Co-clone.git"
+},
+{
+        "imageUrl":"Img/digi-dream.png",
+        "url":"https://digidreamworks.vercel.app/",
+        "githubUrl":"https://github.com/NomanLodhi/Theme.git"
+},
+{
+        "imageUrl":"Img/olufund.png",
+        "url":"https://olufundbespoke.vercel.app/",
+        "githubUrl":"CLIENT'S PROJECT CAN'T SHARE SOURCE CODE"
 }
     ]
 
