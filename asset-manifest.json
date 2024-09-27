@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.f6bebde8.css",
-    "main.js": "/my-portfolio/static/js/main.7fce4bda.js",
+    "main.js": "/my-portfolio/static/js/main.49f0689b.js",
     "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/tajweed-ul-quran.png": "/my-portfolio/static/media/tajweed-ul-quran.eaab6edc5ff70148a6f5.png",
     "static/media/red-apple.png": "/my-portfolio/static/media/red-apple.b836f3003c625963bbfb.png",
@@ -25,7 +25,7 @@
     "static/media/web-dashboard.png": "/my-portfolio/static/media/web-dashboard.0724da956add1e0f5a16.png",
     "static/media/tw-good.png": "/my-portfolio/static/media/tw-good.461bc73e5c3411bdf13a.png",
     "static/media/Logo.png": "/my-portfolio/static/media/Logo.8309838153b16e028465.png",
-    "static/media/Noman Lodhi Resume.pdf": "/my-portfolio/static/media/Noman Lodhi Resume.3665e3ffbf1c2338edce.pdf",
+    "static/media/Noman Lodhi-Front-end-developer.pdf": "/my-portfolio/static/media/Noman Lodhi-Front-end-developer.795fe89ef9cf347aa479.pdf",
     "static/media/redux-logo.png": "/my-portfolio/static/media/redux-logo.b426d97de12d4dab1c06.png",
     "static/media/React-logo.png": "/my-portfolio/static/media/React-logo.09ea234359983a3c8cc1.png",
     "static/media/html-logo.png": "/my-portfolio/static/media/html-logo.ff7c64e475530a737e08.png",
@@ -35,11 +35,11 @@
     "static/media/bootstrap-logo.png": "/my-portfolio/static/media/bootstrap-logo.268c4375260420e8d982.png",
     "index.html": "/my-portfolio/index.html",
     "main.f6bebde8.css.map": "/my-portfolio/static/css/main.f6bebde8.css.map",
-    "main.7fce4bda.js.map": "/my-portfolio/static/js/main.7fce4bda.js.map",
+    "main.49f0689b.js.map": "/my-portfolio/static/js/main.49f0689b.js.map",
     "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6bebde8.css",
-    "static/js/main.7fce4bda.js"
+    "static/js/main.49f0689b.js"
   ]
 }
